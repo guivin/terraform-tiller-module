@@ -1,4 +1,4 @@
-# Tiller Terraform Module
+# Tiller Terraform Module [![Build Status](https://travis-ci.com/vingcen/terraform-tiller-module.svg?token=BMz7e5ocAJFLzxUW4pFx&branch=master)](https://travis-ci.com/vingcen/terraform-tiller-module)
 > A terraform module to install Tiller for Helm on your Kubernetes cluster
 
 # Description
